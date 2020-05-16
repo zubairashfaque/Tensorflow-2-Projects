@@ -1,6 +1,6 @@
 # Tensorflow2.0 - Projects
 
-One Paragraph of project description goes here
+The core open source library to help you develop and train ML models. Some ML projects using Tensorflow2.0.
 
 ## Getting Started
 
